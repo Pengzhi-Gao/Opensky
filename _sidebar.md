@@ -1,15 +1,32 @@
 - 首页
-- 期末资料
+- [向我们反馈问题](https://github.com/Pengzhi-Gao/sky_Open_info/issues)  
+- 一，期末资料
   - [项目介绍](1，期末资料/README.md)
   - [大一期末资料](1，期末资料/大一期末资料.md)
-  - [大二期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%BA%8C%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
-  - [大三期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%B8%89%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
-  - [大四期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E5%9B%9B%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
-  - [限选课资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E9%99%90%E9%80%89%E8%AF%BE%E8%B5%84%E6%96%99.md) 
-  - [Issues](https://gitee.com/sky2_1/EndPeriod_info/issues) 
-- 生物技术专业实习
-  - [介绍](https://gitee.com/sky2_1/internship-in-biotechnology/blob/master/README.md) 
-  - [历年实习情况](spring/【10分钟学Spring】：（一）初识Spring框架.md)
-  - [依赖注入及示例](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
-  - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md)
--  Bio-information
+  - [大二期末资料](1，期末资料/大二期末资料.md) 
+  - [大三期末资料](1，期末资料/大三期末资料.md) 
+  - [大四期末资料](1，期末资料/大四期末资料.md) 
+  - [限选课资料](1，期末资料/限选课资料.md) 
+- 二，生物技术专业实习
+  - [介绍](2，生物技术专业实习/README.md)
+  - 历年实习情况
+    - [2019级联系记录](2，生物技术专业实习/2019级联系记录.png)
+    - [2019级实习情况](2，生物技术专业实习/2019级专业实习情况.md)
+    - [2020级实习情况](2，生物技术专业实习/2020级专业实习情况.md)
+    - [2021级实习情况](2，生物技术专业实习/2021级专业实习情况.md)
+  - [如何找到心仪的导师]()
+- 三，生物科学专业教育实习
+  - [介绍](3，生物科学教育实习/README.md)
+- 四，生物信息学
+  - [介绍](4，Bio-info/README.md)
+  - [复杂科学和系统科学研究](4，Bio-info/复杂性研究和系统科学研究.md)
+  - [如何修炼为一个成熟的生信工程师](4，Bio-info/如何修炼为一个成熟的生信工程师.md)
+- 五，科研竞赛
+  - [概述](5，科研竞赛/README.md)
+  - [正确的科研姿势（基础篇）](5，科研竞赛/正确的科研姿势（基础篇）.md)
+- 六，出国专栏
+  - [概述](6，出国专栏/README.md)
+- 七，保研专栏
+  - [介绍](7，保研专栏/README.md)
+- 八，入学须知
+  - [介绍](8，入学须知/README.md)

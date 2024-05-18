@@ -1,8 +1,8 @@
-# Ourblogs
+# Sky blogs
 
 
-> 欢迎来到SDNU 生科院信息共享网站
+> 欢迎来到SDNU生科院信息共享网站
 
-[期末资料]()
+期末资料-专业实习-生物信息-科研竞赛-出国保研
 
-[滚动鼠标](introduction)
+[点击进入](README.md)   
