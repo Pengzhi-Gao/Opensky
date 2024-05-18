@@ -1,7 +1,7 @@
 - 首页
 - 期末资料
   - [项目介绍](https://gitee.com/sky2_1/EndPeriod_info/blob/master/README.md)
-  - [大一期末资料](https://github.com/Pengzhi-Gao/sky_Open_info/blob/e6cd996db28e89cd4614b27fb16084999eabcc0f/1%EF%BC%8C%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99/%E5%A4%A7%E4%B8%80%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md)
+  - [大一期末资料](1，期末资料/大一期末资料.md)
   - [大二期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%BA%8C%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
   - [大三期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%B8%89%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
   - [大四期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E5%9B%9B%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
