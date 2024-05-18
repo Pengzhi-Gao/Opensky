@@ -1,6 +1,6 @@
 - 首页
 - 期末资料
-  - [项目介绍](https://gitee.com/sky2_1/EndPeriod_info/blob/master/README.md)
+  - [项目介绍](1，期末资料/README.md)
   - [大一期末资料](1，期末资料/大一期末资料.md)
   - [大二期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%BA%8C%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
   - [大三期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%B8%89%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
