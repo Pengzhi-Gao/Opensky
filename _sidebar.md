@@ -1,0 +1,15 @@
+- 首页
+- 期末资料
+  - [项目介绍](https://gitee.com/sky2_1/EndPeriod_info/blob/master/README.md)
+  - [大一期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%B8%80%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
+  - [大二期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%BA%8C%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
+  - [大三期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E4%B8%89%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
+  - [大四期末资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E5%A4%A7%E5%9B%9B%E6%9C%9F%E6%9C%AB%E8%B5%84%E6%96%99.md) 
+  - [限选课资料](https://gitee.com/sky2_1/EndPeriod_info/blob/master/%E9%99%90%E9%80%89%E8%AF%BE%E8%B5%84%E6%96%99.md) 
+  - [Issues](https://gitee.com/sky2_1/EndPeriod_info/issues) 
+- 生物技术专业实习
+  - [介绍](https://gitee.com/sky2_1/internship-in-biotechnology/blob/master/README.md) 
+  - [历年实习情况](spring/【10分钟学Spring】：（一）初识Spring框架.md)
+  - [依赖注入及示例](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
+  - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md)
+-  Bio-information
