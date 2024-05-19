@@ -1,5 +1,7 @@
 # Sky blogs
 
+![logo](test/logo1.png)
+
 > 版本：0.0.1
 > 
 > 欢迎来到SDNU生科院信息共享网站
