@@ -26,6 +26,32 @@
       logo: 'test/logo1.png',
     }
   </script>
+  <!-- gitalk -->
+  <div id="gitalk-container"></div>
+  var gitalk = new Gitalk({
+  clientID: 'PengzhiGao',
+  clientSecret: 'GitHub Application Client Secret',
+  repo: 'GitHub repo',
+  owner: 'GitHub repo owner',
+  admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
+  <!-- 全文搜索 -->
+  <script>
+    window.$docsify = {
+      ......
+      //全文搜索
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        placeholder: '请输入要搜索的关键字',
+        noData: '没有结果',
+        // 搜索标题的最大程级, 1 - 6
+        depth: 6,
+      },
+    }
+  </script>
   <!-- 引入Docsify脚本 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- 引入Gitalk的脚本 -->
@@ -33,5 +59,7 @@
   <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
   <!-- 引入图片缩放插件 -->
   <script src="node_modules/medium-zoom/dist/medium-zoom.min.js"></script>
+  <!--全文搜索-->
+  <script src="https://cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js">
 </body>
 </html>
