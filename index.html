@@ -12,11 +12,15 @@
   <!-- 引入Gitalk的CSS样式 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
-<body>
   <!-- Docsify的挂载点 -->
   <div id="app"></div>
+  
+  <!-- gitalk 容器 -->
+  <div id="gitalk-container"></div>
+  
+  <!-- 设置Docsify的配置 -->
   <script>
-    // 设置Docsify的配置
+    // 设置界面
     window.$docsify = {
       name: '',
       repo: 'Pengzhi-Gao/Opensky',
@@ -24,36 +28,34 @@
       coverpage: true,
       auto2top: true,
       logo: 'test/logo1.png',
-    }
-  </script>
-  <!-- gitalk -->
-  <div id="gitalk-container"></div>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: 'Ov23lipDKxoZaLdR889l',
-      clientSecret: '9fc0c9f3607c5e8af4655cd6fe35f6a5da217e3c',
-      repo: 'Pengzhi-Gao/My-Doc',
-      owner: 'Pengzhi-Gao',
-      admin: ['Pengzhi-Gao'],
-      id: location.pathname,      // Ensure uniqueness and length less than 50
-      distractionFreeMode: false  // Facebook-like distraction free mode
-   })
-  </script>
-  <!-- 全文搜索 -->
-  <script>
-    window.$docsify = {
-      ......
-      //全文搜索
+      // 添加搜索功能
       search: {
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
         placeholder: '请输入要搜索的关键字',
         noData: '没有结果',
-        // 搜索标题的最大程级, 1 - 6
         depth: 6,
       },
-    }
+      // 设置Gitalk
+      plugins: [
+        function(hook, vm) {
+          hook.mounted(function() {
+            const gitalk = new Gitalk({
+              clientID: 'Ov23lipDKxoZaLdR889l',
+              clientSecret: '9fc0c9f3607c5e8af4655cd6fe35f6a5da217e3c',
+              repo: 'Pengzhi-Gao/My-Doc',
+              owner: 'Pengzhi-Gao',
+              admin: ['Pengzhi-Gao'],
+              id: decodeURI(window.location.pathname), // Ensure uniqueness and length less than 50
+              distractionFreeMode: false // Facebook-like distraction free mode
+            });
+            gitalk.render('gitalk-container');
+          });
+        }
+      ]
+    };
   </script>
+  
   <!-- 引入Docsify脚本 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- 引入Gitalk的脚本 -->
