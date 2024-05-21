@@ -15,3 +15,7 @@
 ### QQ群
 QQ群：170798012
 有啥问题网站上留言或者进群给管理员说
+
+### 致谢（未完待续）
+感谢 Wang HJ ，Li FQ 制作的Logo，提出意见
+感谢 Yang WH，Cheng X，Hu JN，Li YJ，Wang YR，提供资料，撰写文案
