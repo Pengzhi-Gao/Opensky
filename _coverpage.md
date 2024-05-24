@@ -1,5 +1,4 @@
 <!-- _coverpage.md -->
-
 <style>
 .title {
     font-weight: 1000;
@@ -8,8 +7,7 @@
 }
 </style>
 
-
-<div class="title">Sky Blogs</div>
+<div class="title">Sky</div>
 
 
 > 版本：0.0.2
