@@ -1,4 +1,16 @@
-# Sky blogs
+<!-- _coverpage.md -->
+
+<style>
+.title {
+    font-weight: 1000;
+    font-size: 7rem;
+    font-family: 'Arial';
+}
+</style>
+
+
+<div class="title">Sky Blogs</div>
+
 
 > 版本：0.0.2
 > 
