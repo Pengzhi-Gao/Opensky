@@ -17,6 +17,7 @@
   - [介绍](3，生物科学教育实习/README.md)
 - 四，生物信息学
   - [介绍](4，Bio-info/README.md)
+  - [AI for science](4，Bio-info/AI_for_science.md)
   - [复杂科学和系统科学研究](4，Bio-info/复杂性研究和系统科学研究.md)
   - [如何修炼为一个成熟的生信工程师](4，Bio-info/如何修炼为一个成熟的生信工程师.md)
 - 五，科研竞赛
