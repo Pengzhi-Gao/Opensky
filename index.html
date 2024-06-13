@@ -45,9 +45,14 @@
         depth: 6,
       },
       // 设置Gitalk
-      plugins: [
+    plugins: [
         function(hook, vm) {
-          hook.mounted(function() {
+          hook.afterEach(function(html, next) {
+            const commentContainer = '<div id="gitalk-container" style="margin-top: 20px;"></div>';
+            next(html + commentContainer);
+          });
+
+          hook.doneEach(function() {
             const gitalk = new Gitalk({
               clientID: 'Ov23lipDKxoZaLdR889l',
               clientSecret: '9fc0c9f3607c5e8af4655cd6fe35f6a5da217e3c',
